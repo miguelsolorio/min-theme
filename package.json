@@ -27,5 +27,8 @@
                 "path": "./themes/min-light.json"
             }
         ]
+    },
+    "galleryBanner": {
+        "color": "#000000"
     }
 }
