@@ -4,6 +4,10 @@
     "description": "A minimal theme that comes in dark and light.",
     "version": "1.0.0",
     "publisher": "miguelsolorio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/misolori/min-theme.git"
+    },
     "engines": {
         "vscode": "^1.25.0"
     },
@@ -12,8 +16,7 @@
     ],
     "icon": "icon.png",
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Min Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/min-dark.json"
