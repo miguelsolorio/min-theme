@@ -1,9 +1,7 @@
-<center>
-    <img src="icon.png" width="128" height="128"/>
-    <h1 >Min Theme</h1>
-    <img src="screenshot-dark.png" />
-    <img src="screenshot-light.png" />
-</center>
+<p align="center"><img src="icon.png" width="128" height="128"/></p>
+<h1 align="center">Min Theme</h1>
+<p align="center"><img src="screenshot-dark.png" /></p>
+<p align="center"><img src="screenshot-light.png" /></p>
 
 ## Introduction
 
