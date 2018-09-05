@@ -1,0 +1,28 @@
+{
+    "name": "min-theme",
+    "displayName": "Min Theme",
+    "description": "A minimal theme that comes in dark and light.",
+    "version": "0.0.1",
+    "publisher": "miguelsolorio",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Min Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/min-dark.json"
+            },
+            {
+                "label": "Min Light",
+                "uiTheme": "vs",
+                "path": "./themes/min-light.json"
+            }
+        ]
+    }
+}
