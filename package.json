@@ -29,6 +29,7 @@
         ]
     },
     "galleryBanner": {
-        "color": "#000000"
+        "color": "#000000",
+        "theme": "dark"
     }
 }
