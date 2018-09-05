@@ -5,4 +5,4 @@
 
 ## Introduction
 
-Min is a minimalist theme that comes in dark and light.
+Min is a minimal theme for VS Code that comes in dark and light.
