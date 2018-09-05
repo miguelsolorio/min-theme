@@ -7,6 +7,7 @@
 		"activityBarBadge.background": "#383838",
 		"badge.background": "#383838",
 		"badge.foreground": "#C1C1C1",
+		"button.background": "#333",
 		"editor.background": "#1f1f1f",
 		"editorGroupHeader.tabsBackground": "#1A1A1A",
 		"editorGroupHeader.tabsBorder": "#1A1A1A",
@@ -42,7 +43,8 @@
 		"tab.border": "#1A1A1A",
 		"tab.inactiveBackground": "#1A1A1A",
 		"tab.inactiveForeground": "#484848",
-		"textLink.foreground": "#fafafa",
+		"textLink.foreground": "#ccc",
+		"textLink.activeForeground": "#fafafa",
 		"titleBar.activeBackground": "#1A1A1A",
 		"titleBar.border": "#1A1A1A"
 	},
