@@ -2,7 +2,7 @@
     "name": "min-theme",
     "displayName": "Min Theme",
     "description": "A minimal theme that comes in dark and light.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "miguelsolorio",
     "engines": {
         "vscode": "^1.25.0"
