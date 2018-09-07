@@ -18,7 +18,7 @@
 		"list.activeSelectionBackground": "#212121",
 		"list.activeSelectionForeground": "#F5F5F5",
 		"list.focusBackground": "#262626",
-		"list.highlightForeground": "#F5F5F5",
+		"list.highlightForeground": "#C0C0C0",
 		"list.hoverBackground": "#262626",
 		"list.hoverForeground": "#9E9E9E",
 		"list.inactiveSelectionBackground": "#212121",
@@ -43,13 +43,12 @@
 		"tab.border": "#1A1A1A",
 		"tab.inactiveBackground": "#1A1A1A",
 		"tab.inactiveForeground": "#484848",
-		"textLink.foreground": "#ccc",
+		"textLink.foreground": "#CCC",
 		"textLink.activeForeground": "#fafafa",
 		"titleBar.activeBackground": "#1A1A1A",
 		"titleBar.border": "#1A1A1A"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"settings": {
 				"foreground": "#24292eff"
 			}
