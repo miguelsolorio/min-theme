@@ -50,7 +50,7 @@
 	},
 	"tokenColors": [{
 			"settings": {
-				"foreground": "#24292eff"
+				"foreground": "#b392f0"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 				"markup.fenced_code meta.embedded.block"
 			],
 			"settings": {
-				"foreground": "#24292eff"
+				"foreground": ";"
 			}
 		},
 		{
