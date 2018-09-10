@@ -61,7 +61,7 @@
 				"markup.fenced_code meta.embedded.block"
 			],
 			"settings": {
-				"foreground": ";"
+				"foreground": "#b392f0"
 			}
 		},
 		{
