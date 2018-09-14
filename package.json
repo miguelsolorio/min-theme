@@ -2,7 +2,7 @@
     "name": "min-theme",
     "displayName": "Min Theme",
     "description": "A minimal theme that comes in dark and light.",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "miguelsolorio",
     "repository": {
         "type": "git",
@@ -16,7 +16,8 @@
     ],
     "icon": "icon.png",
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Min Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/min-dark.json"
