@@ -2,7 +2,7 @@
     "name": "min-theme",
     "displayName": "Min Theme",
     "description": "A minimal theme that comes in dark and light.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "miguelsolorio",
     "repository": {
         "type": "git",

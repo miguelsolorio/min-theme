@@ -11,6 +11,7 @@
 		"editor.background": "#1f1f1f",
 		"editorGroupHeader.tabsBackground": "#1A1A1A",
 		"editorGroupHeader.tabsBorder": "#1A1A1A",
+		"editorSuggestWidget.background": "#1A1A1A",
 		"focusBorder": "#363636",
 		"foreground": "#888888",
 		"input.background": "#2A2A2A",
