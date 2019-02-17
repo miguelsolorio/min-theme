@@ -26,6 +26,16 @@
                 "label": "Min Light",
                 "uiTheme": "vs",
                 "path": "./themes/min-light.json"
+            },
+            {
+                "label": "Min Dark Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/min-dark-bold.json"
+            },
+            {
+                "label": "Min Light Bold",
+                "uiTheme": "vs",
+                "path": "./themes/min-light-bold.json"
             }
         ]
     },
