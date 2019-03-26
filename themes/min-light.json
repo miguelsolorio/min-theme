@@ -50,6 +50,7 @@
 		"statusBar.debuggingBackground": "#f6f6f6",
 		"statusBar.foreground": "#7E7E7E",
 		"statusBar.noFolderBackground": "#f6f6f6",
+		"statusBarItem.prominentBackground": "#0000001a",
 		"tab.activeBorder": "#FFF",
 		"tab.activeForeground": "#424242",
 		"tab.border": "#f6f6f6",
