@@ -79,7 +79,7 @@
 		"textLink.activeForeground": "#000",
 		"textLink.foreground": "#000",
 		"titleBar.activeBackground": "#f6f6f6",
-		"titleBar.border": "#f6f6f6",
+		"titleBar.border": "#FFFFFF00",
 		"titleBar.inactiveBackground": "#f6f6f6"
 	},
 	"tokenColors": [{
