@@ -60,6 +60,7 @@
 		},
 		{
 			"scope": [
+				"support.function",
 				"keyword.operator.accessor",
 				"meta.group.braces.round.function.arguments",
 				"meta.template.expression",

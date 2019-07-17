@@ -185,6 +185,7 @@
 		},
 		{
 			"scope": [
+				"support.function",
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"meta.function-call",
