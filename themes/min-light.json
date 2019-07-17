@@ -61,7 +61,7 @@
 		"tab.unfocusedActiveBorder": "#fff",
 		"terminal.ansiBlack": "#333",
 		"terminal.ansiBlue": "#e0e0e0",
-		"terminal.ansiBrightBlack": "#FFFFFF",
+		"terminal.ansiBrightBlack": "#a1a1a1",
 		"terminal.ansiBrightBlue": "#6871ff",
 		"terminal.ansiBrightCyan": "#57d9ad",
 		"terminal.ansiBrightGreen": "#a3d900",
