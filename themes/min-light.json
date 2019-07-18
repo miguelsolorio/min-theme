@@ -12,7 +12,7 @@
 		"editor.background": "#ffffff",
 		"editor.foreground": "#212121",
 		"editor.lineHighlightBorder": "#f2f2f2",
-		"editorBracketMatch.background": "#f1f8ff",
+		"editorBracketMatch.background": "#E7F3FF",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editorGroupHeader.tabsBackground": "#f6f6f6",
 		"editorGroupHeader.tabsBorder": "#fff",
