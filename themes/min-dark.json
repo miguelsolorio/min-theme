@@ -9,6 +9,7 @@
 		"badge.foreground": "#C1C1C1",
 		"button.background": "#333",
 		"editor.background": "#1f1f1f",
+		"editor.lineHighlightBorder": "#303030",
 		"editorGroupHeader.tabsBackground": "#1A1A1A",
 		"editorGroupHeader.tabsBorder": "#1A1A1A",
 		"editorSuggestWidget.background": "#1A1A1A",

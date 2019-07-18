@@ -11,7 +11,7 @@
 		"button.hoverBackground": "#616161",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#212121",
-		"editor.lineHighlightBackground": "#f8f8f8",
+		"editor.lineHighlightBorder": "#f2f2f2",
 		"editorBracketMatch.background": "#f1f8ff",
 		"editorBracketMatch.border": "#c8e1ff",
 		"editorGroupHeader.tabsBackground": "#f6f6f6",
