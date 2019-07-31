@@ -22,7 +22,7 @@
 		"editorSuggestWidget.background": "#F3F3F3",
 		"extensionButton.prominentBackground": "#000000AA",
 		"extensionButton.prominentHoverBackground": "#000000BB",
-		"focusBorder": "#D3D3D3",
+		"focusBorder": "#D0D0D0",
 		"foreground": "#757575",
 		"input.border": "#E9E9E9",
 		"list.activeSelectionBackground": "#EEE",
@@ -80,7 +80,8 @@
 		"textLink.foreground": "#000",
 		"titleBar.activeBackground": "#f6f6f6",
 		"titleBar.border": "#FFFFFF00",
-		"titleBar.inactiveBackground": "#f6f6f6"
+		"titleBar.inactiveBackground": "#f6f6f6",
+		"inputOption.activeBackground": "#EDEDED"
 	},
 	"tokenColors": [{
 			"settings": {
