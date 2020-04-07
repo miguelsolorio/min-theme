@@ -24,6 +24,7 @@
 		"extensionButton.prominentHoverBackground": "#000000BB",
 		"focusBorder": "#D0D0D0",
 		"foreground": "#757575",
+		"gitDecoration.ignoredResourceForeground": "#AAAAAA",
 		"input.border": "#E9E9E9",
 		"list.activeSelectionBackground": "#EEE",
 		"list.activeSelectionForeground": "#212121",
