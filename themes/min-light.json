@@ -161,8 +161,9 @@
 				"markup.fenced_code",
 				"markup.inline"
 			],
+			// comment
 			"settings": {
-				"foreground": "#6a737d"
+				"foreground": "#c2c3c5"
 			}
 		},
 		{
