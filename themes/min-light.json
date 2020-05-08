@@ -52,7 +52,7 @@
 		"statusBar.foreground": "#7E7E7E",
 		"statusBar.noFolderBackground": "#f6f6f6",
 		"statusBarItem.remoteForeground": "#7E7E7E",
-        "statusBarItem.remoteBackground": "#f6f6f600",
+		"statusBarItem.remoteBackground": "#f6f6f600",
 		"statusBarItem.prominentBackground": "#0000001a",
 		"tab.activeBorder": "#FFF",
 		"tab.activeForeground": "#424242",
@@ -175,6 +175,8 @@
 			"scope": [
 				"constant.numeric",
 				"constant.language",
+				"constant.other.placeholder",
+				"constant.character.format.placeholder",
 				"variable.language.this",
 				"variable.other.object",
 				"variable.other.class",
