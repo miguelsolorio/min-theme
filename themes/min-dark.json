@@ -133,17 +133,13 @@
 		{
 			"scope": [
 				"comment",
+				"strings",
+				"string",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
 				"foreground": "#4e5761"
-			}
-		},
-		{
-			"scope": "string",
-			"settings": {
-				"foreground": "#79b8ff"
 			}
 		},
 		{
