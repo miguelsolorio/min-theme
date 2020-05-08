@@ -42,7 +42,7 @@
 		"statusBar.foreground": "#7E7E7E",
 		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBarItem.remoteForeground": "#7E7E7E",
-        "statusBarItem.remoteBackground": "#1a1a1a00",
+		"statusBarItem.remoteBackground": "#1a1a1a00",
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#1e1e1e",
 		"tab.activeForeground": "#FAFAFA",
@@ -163,6 +163,8 @@
 		{
 			"scope": [
 				"constant.numeric",
+				"constant.other.placeholder",
+				"constant.character.format.placeholder",
 				"meta.property-value",
 				"keyword.other.unit",
 				"keyword.other.template",
