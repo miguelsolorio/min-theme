@@ -161,7 +161,6 @@
 				"markup.fenced_code",
 				"markup.inline"
 			],
-			// comment
 			"settings": {
 				"foreground": "#c2c3c5"
 			}
