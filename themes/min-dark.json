@@ -2,8 +2,8 @@
 	"name": "Min Dark",
 	"type": "dark",
 	"colors": {
-		"editorIndentGuide.activeBackground": "#7D7D7D",
-        	"editorIndentGuide.background": "#383838",
+		"editorIndentGuide.activeBackground": "#383838",
+		"editorIndentGuide.background": "#2A2A2A",
 		"activityBar.background": "#1A1A1A",
 		"activityBar.foreground": "#7D7D7D",
 		"activityBarBadge.background": "#383838",
