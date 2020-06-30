@@ -191,6 +191,7 @@
 				"storage.type",
 				"storage.control.clojure",
 				"entity.name.function.clojure",
+				"entity.name.tag.yaml",
 				"support.function.node",
 				"support.type.property-name.json",
 				"punctuation.separator.key-value",
@@ -228,6 +229,7 @@
 				"string.regexp",
 				"string.interpolated",
 				"string.template",
+				"string.unquoted.plain.out.yaml",
 				"keyword.other.template"
 			],
 			"settings": {
