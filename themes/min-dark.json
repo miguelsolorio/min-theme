@@ -4,6 +4,8 @@
 	"colors": {
 		"editorIndentGuide.activeBackground": "#383838",
 		"editorIndentGuide.background": "#2A2A2A",
+		"editorRuler.foreground": "#2A2A2A",
+   		"editorLineNumber.foreground": "#727272",
 		"activityBar.background": "#1A1A1A",
 		"activityBar.foreground": "#7D7D7D",
 		"activityBarBadge.background": "#383838",
