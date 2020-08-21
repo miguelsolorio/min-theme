@@ -136,13 +136,20 @@
 		},
 		{
 			"scope": [
-				"comment",
 				"string",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
 				"foreground": "#9db1c5"
+			}
+		},
+		{
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#4e5761"
 			}
 		},
 		{
