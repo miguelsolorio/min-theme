@@ -22,3 +22,9 @@ Alternatively install via CLI:
 ```
 code --install-extension miguelsolorio.min-theme
 ```
+
+### Variants
+
+Third-party variants are also available, see:
+
+- Tomorrow based variant (dark only): https://github.com/musm/min-tomorrow-theme
