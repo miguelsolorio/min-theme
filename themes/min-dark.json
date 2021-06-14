@@ -258,6 +258,17 @@
 			}
 		},
 		{
+			"scope": [
+				"punctuation.definition.arguments",
+				"punctuation.definition.dict",
+				"punctuation.separator",
+				"meta.function-call.arguments"
+			],
+			"settings": {
+				"foreground": "#bbbbbb"
+			}
+		},
+		{
 			"name": "[Custom] Markdown links",
 			"scope": "markup.underline.link",
 			"settings": {
