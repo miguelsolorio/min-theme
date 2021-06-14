@@ -167,7 +167,8 @@
 		},
 		{
 			"scope": [
-				"comment"
+				"comment",
+				"string.quoted.docstring.multi"
 			],
 			"settings": {
 				"foreground": "#c2c3c5"
