@@ -146,7 +146,8 @@
 		},
 		{
 			"scope": [
-				"comment"
+				"comment",
+				"string.quoted.docstring.multi"
 			],
 			"settings": {
 				"foreground": "#4e5761"
@@ -254,6 +255,17 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#800080"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.arguments",
+				"punctuation.definition.dict",
+				"punctuation.separator",
+				"meta.function-call.arguments"
+			],
+			"settings": {
+				"foreground": "#bbbbbb"
 			}
 		},
 		{
