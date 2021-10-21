@@ -6,7 +6,7 @@
 
 A minimal theme for VS Code that comes in dark and light.
 
-[![Try it out in vscode.dev](https://img.shields.io/badge/Try%20it%20out%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
 
 ![preview-dark](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-dark.png)
 
